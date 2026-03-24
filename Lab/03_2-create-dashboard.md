@@ -50,4 +50,4 @@ We're now going to add a panel showing a Geomap using the country code that was 
 10.  Return to your dashboard and **save** your progress.
 
 ## Add more panels
-For a guide to adding more panel types, refer to optional lab: [optional-add-more-panels.md](Lab/optional-add-more-panels.md)
+For a guide to adding more panel types, refer to optional lab: [optional-add-more-panels.md](/Lab/optional-add-more-panels.md)
