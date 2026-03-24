@@ -27,11 +27,11 @@ We're now going to add a panel showing a Geomap using the country code that was 
 
 5.  Underneath the query box, click **Options** to expand the options panel, and set the **Legend** value to `{{geoip_country_code}}`.
 
-6.  Above the query, click on the **Transformations** tab, then **Add transformation**. 
+6.  Above the query, click on the **Transformations** tab, then **+ Show more**. 
 
 7.  From the transformations palette, add the **Reduce** transformation, and select the **Series to rows** Mode. For the **Calculations** field, select **Total**.
 
-8.  In the sidebar, click on the dropdown at the top and change the panel type to **Geomap**.
+8.  In the sidebar, click on **All visualizations** at the top and search for the panel type to **Geomap**.
 
 9.  In the **Panel options** sidebar, change the following settings:
 
