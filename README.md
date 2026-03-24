@@ -7,8 +7,8 @@
   - [Connect to logs data sources to start](/Lab/01-connect-data-sources.md)
 
 **2. Exploring Logs**
-  - [Queryless exploration of logs via Drilldown Apps](/Lab/2_1-explore-logs-queryless.md)
-  - [Write Loki queries](/Lab/2_2-query-logs.md)
+  - [Queryless exploration of logs via Drilldown Apps](/Lab/02_1-explore-logs-queryless.md)
+  - [Write Loki queries](/Lab/02_2-query-logs.md)
 
 **3. Create Dashboards**
   - [Write metric queries](/Lab/03_1-write-metric-queries.md)
