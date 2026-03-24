@@ -1,6 +1,6 @@
 # Actually Useful AI Breakout Sessions
 >[!IMPORTANT]
->[Set up your free trial](/set-up-your-free-trial.md) if you have not done so. You will need it for the breakout exercises.
+>[Set up your free trial](/set-up-your-free-trial.md) if you have not done so. You will need it for the lab exercises.
 
 ## Breakouts
 **1. Connect Data Sources**
