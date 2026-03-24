@@ -1,7 +1,7 @@
 # Optional: Correlate metrics, logs, and traces
 
 > [!NOTE]
-> Ensure you have Prometheus and Tempo data sources added to your Grafana instance. Refer to [01-connect-data-sources.md](Lab/01-connect-data-sources.md)
+> Ensure you have Prometheus and Tempo data sources added to your Grafana instance. Refer to [01-connect-data-sources.md](/Lab/01-connect-data-sources.md)
 
 Labels in Loki work like labels in Prometheus, allowing you to efficiently query, filter, and organize your log data. In Grafana, you can correlate logs with metrics using these labels, enabling you to view related data side-by-side, and gain deeper insights into your system's behavior and performance.
 
