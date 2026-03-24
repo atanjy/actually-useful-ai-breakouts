@@ -6,7 +6,7 @@
 **1. Connect Data Sources**
   - [Connect to logs data sources to start](/Lab/01-connect-data-sources.md)
 
-**2. Exploring Logs**
+**2. Explore Logs**
   - [Queryless exploration of logs via Drilldown Apps](/Lab/02_1-explore-logs-queryless.md)
   - [Write Loki queries](/Lab/02_2-query-logs.md)
 
