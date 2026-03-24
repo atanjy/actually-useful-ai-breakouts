@@ -3,7 +3,7 @@
 You’ve made it to the last exercise!
 
 By now you should have:
-- Logs flowing into **Loki** (and metrics and traces if you have done the optional exercises)
+- Logs flowing into **Grafana Cloud Logs** (and metrics and traces if you have done the optional exercises)
 - Explored logs in Grafana Cloud via query and no query (drilldown logs)
 - Created panels and dashboards
 - Imported a full NGINX analytics demo dashboard
