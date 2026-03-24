@@ -36,17 +36,18 @@ In this lab, we'll look at some essential features of Logs Drilldown that help y
 
 1. While viewing the logs for **web_app_3**, **click on one of the returned log lines** to expand it.
 
-2. When you expand a log line, the detail view shows the **Fields** that are associated with it:
+2. When you expand a log line, the detail view shows the **Labels and Fields** that are associated with it:
 
-    - _Indexed labels_ which locate the log line in Loki's index (denoted by **I**)
+    - _Indexed labels_ which locate the log line in Loki's index
 
-    - _Parsed labels_ which are fields inside the log line itself, that Loki has parsed at query time (denoted by **P**)
+    - _Structured metadata_ which are un-indexed key-value pairs attached to a log line
 
-    - _Structured metadata_ which are un-indexed key-value pairs attached to a log line (denoted by **S**)
+    - _Parsed labels_ which are fields inside the log line itself, that Loki has parsed at query time
     
-    The fields are displayed in a table, with icons that allow you to filter the logs by that field.
+    The fields are displayed in a table, categorized into the above segments.
 
-    <img width="1501" height="696" alt="image" src="https://github.com/user-attachments/assets/a23ce00b-4a8f-4103-83f0-35d5b946259e" />
+    <img width="2694" height="1685" alt="image" src="https://github.com/user-attachments/assets/6d17618d-75f4-47f4-96f5-10b1f42847d0" />
+
 
 ## Searching and filtering
 
@@ -61,10 +62,7 @@ In this lab, we'll look at some essential features of Logs Drilldown that help y
 
     **Click on a log line** to expand it. Then, by the side of **status_code**, click on the magnifying glass icon with the plus sign: 
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" width="16" height="16" class="css-fmaj2t-Icon">
-    <rect x="-2" y="-2" width="28" height="28" fill="white"/><path d="M15,10H12V7a1,1,0,0,0-2,0v3H7a1,1,0,0,0,0,2h3v3a1,1,0,0,0,2,0V12h3a1,1,0,0,0,0-2Zm6.71,10.29L18,16.61A9,9,0,1,0,16.61,18l3.68,3.68a1,1,0,0,0,1.42,0A1,1,0,0,0,21.71,20.29ZM11,18a7,7,0,1,1,7-7A7,7,0,0,1,11,18Z"></path></svg>
-
-    <img width="1167" height="490" alt="image" src="https://github.com/user-attachments/assets/a001c5b4-30e0-491f-a0a3-24f662ced6ea" />
+    <img width="3119" height="725" alt="image" src="https://github.com/user-attachments/assets/e17dfd80-2730-41ef-a7ff-29af9fec1c07" />
 
 
 3. The log results are updated to show only those logs which contain the string `favicon` **and** have the `status_code` that you just selected.
