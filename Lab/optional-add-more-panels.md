@@ -1,7 +1,7 @@
 # Optional: Add more panels to your dashboard
 
 >[!NOTE]
->For instructions to create your first dashboard, or a Geomap panel, refer to [03_2-create-dashboard.md](03_2-create-dashboard.md)
+>For instructions to create your first dashboard, or a Geomap panel, refer to [03_2-create-dashboard.md](/Lab/03_2-create-dashboard.md)
 
 ## Add a 95th percentile panel
 
